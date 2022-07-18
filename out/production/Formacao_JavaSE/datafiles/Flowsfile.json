@@ -1,0 +1,63 @@
+[
+	{
+		"comment": "Debit",
+		"amount": 50,
+		"targetAccountNumber": 1
+	},
+	{
+		"comment": "Credit",
+		"amount": 100.50,
+		"targetAccountNumber": 1
+	},
+	{
+		"comment": "Credit",
+		"amount": 100.50,
+		"targetAccountNumber": 3
+	},
+	{
+		"comment": "Credit",
+		"amount": 100.50,
+		"targetAccountNumber": 5
+	},
+	{
+		"comment": "Credit",
+		"amount": 100.50,
+		"targetAccountNumber": 7
+	},
+	{
+		"comment": "Credit",
+		"amount": 100.50,
+		"targetAccountNumber": 9
+	},
+	{
+		"comment": "Credit",
+		"amount": 1500,
+		"targetAccountNumber": 2
+	},
+	{
+		"comment": "Credit",
+		"amount": 1500,
+		"targetAccountNumber": 4
+	},
+	{
+		"comment": "Credit",
+		"amount": 1500,
+		"targetAccountNumber": 6
+	},
+	{
+		"comment": "Credit",
+		"amount": 1500,
+		"targetAccountNumber": 8
+	},
+	{
+		"comment": "Credit",
+		"amount": 1500,
+		"targetAccountNumber": 10
+	},
+		{
+		"comment": "Transfer",
+		"amount": 50,
+		"targetAccountNumber": 2,
+		"originAccountNumber": 1
+	}
+]
